@@ -8,7 +8,7 @@ class MyFirstController extends Controller
 {
     public function index($pr1, $pr2){
 
-        
+    
         $model = ['param1'=>$pr1,
                   'param2'=>$pr2,
         ];
